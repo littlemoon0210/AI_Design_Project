@@ -51,7 +51,3 @@ To generate text, use the following command:
 python generate.py 
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
